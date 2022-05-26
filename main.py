@@ -1,5 +1,5 @@
 """
-AUTHOR - PINKEY YADAV
+AUTHOR - VEDIKA YADAV
 TASK - REAL-TIME FACE MASK DETECTION
 """
 # importing required libraries
